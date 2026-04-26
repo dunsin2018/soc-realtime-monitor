@@ -83,6 +83,16 @@ Data Transfer: 1097 MB
 Ports Accessed: 35
 Action: Investigate potential intrusion
 ====================================
+```python
+# your snippet here
+
+<9cb4cf-d597-4f93-a494-f5060459dae8" />
+
+
+#### For terminal output:
+```md
+```bash
+your command or output
 
 🧠 Detection Logic
 The system uses:
